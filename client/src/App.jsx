@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import PokemonCard from './Components/Pokemoncard';
+import PokemonCard from './Components/PokemonCard';
 import './index.css';
 
 const App = () => {
